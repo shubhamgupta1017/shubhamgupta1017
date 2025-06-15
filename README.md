@@ -1,114 +1,45 @@
-# Hi 👋, I'm Shubham Gupta
+# Hi there, I'm Shubham Gupta 👋
 
-🎓 Pre-final year B.Tech student at **IIT Ropar**, specializing in Artificial Intelligence & Data Engineering.  
-🤖 Passionate about AI/ML and full-stack web development.  
+Welcome to my GitHub profile! I'm a passionate **AI/ML engineer** and **full-stack developer**, currently a pre-final year B.Tech student at **IIT Ropar**, specializing in **Artificial Intelligence & Data Engineering**.  
+I love building impactful projects, exploring cutting-edge technologies, and solving real-world problems with code!
 
----
+## 🛠️ My Tech Stack
 
-### 🌐 Connect with me
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<p>
-  <a href="https://linkedin.com/in/shubham259gupta" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  &nbsp;
-</p>
+## 📈 GitHub Stats
 
----
+![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=radical)
+<a href="https://git.io/streak-stats">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=yourGitHubUsername&theme=midnight-purple" />
+</a><br>
 
-### 💻 Languages & Tools
-
-<div align="left">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-        <br/><sub><b>C++</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-        <br/><sub><b>Python</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-        <br/><sub><b>Pandas</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
-        <br/><sub><b>NumPy</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
-        <br/><sub><b>TensorFlow</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
-        <br/><sub><b>PyTorch</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-        <br/><sub><b>Scikit-learn</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
-        <br/><sub><b>Seaborn</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-        <br/><sub><b>React</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-        <br/><sub><b>Node.js</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-        <br/><sub><b>Express</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-        <br/><sub><b>MongoDB</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-        <br/><sub><b>Git</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-        <br/><sub><b>Linux</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-        <br/><sub><b>Firebase</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-        <br/><sub><b>Flutter</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-        <br/><sub><b>Figma</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40"/>
-        <br/><sub><b>TailwindCSS</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
-        <br/><sub><b>OpenCV</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 📊 GitHub Stats
+## 📫 Connect with Me
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamgupta1017&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/your-instagram/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
+
+⭐️ From [Shubham Gupta](https://github.com/yourGitHubUsername)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=yourGitHubUsername&icon=2&color=0)](https://visitcount.itsvg.in)
