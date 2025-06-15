@@ -20,17 +20,35 @@ I love building impactful projects, exploring cutting-edge technologies, and sol
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📈 GitHub Stats
+## 📌 Favorite Projects
 
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=radical)
-<a href="https://git.io/streak-stats">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=yourGitHubUsername&theme=midnight-purple" />
-</a><br>
+### 🔬 VeriPix  
+**[VeriPix](https://github.com/ShubhamGupta2704/VeriPix)** – Submission for Adobe Mid Prep PS Competition.  
+Focused on **image classification** and **artifact detection** using advanced **super-resolution** and **AI techniques**.  
+> *Built with:* `Jupyter Notebook`
+
+---
+
+### 🧾 Assetly  
+**[Assetly](https://github.com/ShubhamGupta2704/Assetly)** – Full-stack **MERN** app for inventory management.  
+Features include Google Login, email alerts, asset request/lending, and automation.  
+> *Built with:* `TypeScript`
+
+---
+
+### 🛡️ FileGuard  
+**[FileGuard](https://github.com/ShubhamGupta2704/FileGuard)** – Cryptographic file integrity verification system using **Merkle Trees**.  
+Detects tampering by chunking, hashing, and verifying via Merkle root.  
+> *Built with:* `JavaScript`
+
+## 📈 GitHub Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamGupta2704&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="blank">
+  <a href="https://www.linkedin.com/in/shubham-gupta-ai/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/your-instagram/" target="blank">
@@ -38,8 +56,8 @@ I love building impactful projects, exploring cutting-edge technologies, and sol
   </a>
 </p>
 
-⭐️ From [Shubham Gupta](https://github.com/yourGitHubUsername)
+⭐️ From [Shubham Gupta](https://github.com/ShubhamGupta2704)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=yourGitHubUsername&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ShubhamGupta2704&icon=2&color=0)](https://visitcount.itsvg.in)
