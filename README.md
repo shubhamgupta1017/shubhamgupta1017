@@ -23,29 +23,29 @@ I love building impactful projects, exploring cutting-edge technologies, and sol
 ## 📌 Favorite Projects
 
 ### 🔬 VeriPix  
-**[VeriPix](https://github.com/ShubhamGupta2704/VeriPix)** – Submission for Adobe Mid Prep PS Competition.  
+**[VeriPix](https://github.com/ShubhamGupta1017/VeriPix)** – Submission for Adobe Mid Prep PS Competition.  
 Focused on **image classification** and **artifact detection** using advanced **super-resolution** and **AI techniques**.  
 
 ---
 
 ### 🧾 Assetly  
-**[Assetly](https://github.com/ShubhamGupta2704/Assetly)** – Full-stack **MERN** app for inventory management.  
+**[Assetly](https://github.com/ShubhamGupta1017/Assetly)** – Full-stack **MERN** app for inventory management.  
 Features include Google Login, email alerts, asset request/lending, and automation.  
 
 ---
 
 ### 🛡️ FileGuard  
-**[FileGuard](https://github.com/ShubhamGupta2704/FileGuard)** – Cryptographic file integrity verification system using **Merkle Trees**.  
+**[FileGuard](https://github.com/ShubhamGupta1017/FileGuard)** – Cryptographic file integrity verification system using **Merkle Trees**.  
 Detects tampering by chunking, hashing, and verifying via Merkle root.  
 
 ## 📈 GitHub Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamGupta2704&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamGupta1017&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shubham-gupta-ai/" target="blank">
+  <a href="https://www.linkedin.com/in/shubhamgupta259/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/your-instagram/" target="blank">
