@@ -25,21 +25,18 @@ I love building impactful projects, exploring cutting-edge technologies, and sol
 ### 🔬 VeriPix  
 **[VeriPix](https://github.com/ShubhamGupta2704/VeriPix)** – Submission for Adobe Mid Prep PS Competition.  
 Focused on **image classification** and **artifact detection** using advanced **super-resolution** and **AI techniques**.  
-> *Built with:* `Jupyter Notebook`
 
 ---
 
 ### 🧾 Assetly  
 **[Assetly](https://github.com/ShubhamGupta2704/Assetly)** – Full-stack **MERN** app for inventory management.  
 Features include Google Login, email alerts, asset request/lending, and automation.  
-> *Built with:* `TypeScript`
 
 ---
 
 ### 🛡️ FileGuard  
 **[FileGuard](https://github.com/ShubhamGupta2704/FileGuard)** – Cryptographic file integrity verification system using **Merkle Trees**.  
 Detects tampering by chunking, hashing, and verifying via Merkle root.  
-> *Built with:* `JavaScript`
 
 ## 📈 GitHub Languages
 
@@ -56,7 +53,7 @@ Detects tampering by chunking, hashing, and verifying via Merkle root.
   </a>
 </p>
 
-⭐️ From [Shubham Gupta](https://github.com/ShubhamGupta2704)
+⭐️ From [Shubham Gupta](https://github.com/ShubhamGupta1017)
 
 ---
 
