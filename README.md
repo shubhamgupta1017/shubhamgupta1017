@@ -45,16 +45,15 @@ Detects tampering by chunking, hashing, and verifying via Merkle root.
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shubhamgupta259/" target="blank">
+  <a href="https://www.linkedin.com/in/shubham259gupta/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/your-instagram/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
 </p>
+
+📧 **Email**: [shubham.259gupta@gmail.com](mailto:shubham.259gupta@gmail.com)
 
 ⭐️ From [Shubham Gupta](https://github.com/ShubhamGupta1017)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ShubhamGupta2704&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ShubhamGupta1017&icon=2&color=0)](https://visitcount.itsvg.in)
