@@ -2,7 +2,6 @@
 
 🎓 Pre-final year B.Tech student at **IIT Ropar**, specializing in Artificial Intelligence & Data Engineering.  
 🤖 Passionate about AI/ML and full-stack web development.  
-🚀 Always excited to build impactful projects & explore cutting-edge tech!
 
 ---
 
