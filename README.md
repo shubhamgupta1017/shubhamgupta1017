@@ -23,7 +23,7 @@ I love building impactful projects, exploring cutting-edge technologies, and sol
 ## 📌 Favorite Projects
 
 ### 🔬 VeriPix  
-**[VeriPix]([https://github.com/ShubhamGupta1017/VeriPix](https://github.com/shubhamgupta1017/Deepfake-Detection-and-Explanation-Generation))** – Submission for Adobe Mid Prep PS Competition.  
+**[VeriPix](https://github.com/ShubhamGupta1017/VeriPix](https://github.com/shubhamgupta1017/Deepfake-Detection-and-Explanation-Generation)** – Submission for Adobe Mid Prep PS Competition.  
 Focused on **image classification** and **artifact detection** using advanced **super-resolution** and **AI techniques**.  
 
 ---
